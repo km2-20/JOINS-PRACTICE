@@ -53,7 +53,7 @@ To perform different types of SQL joins (INNER, LEFT, RIGHT, and FULL) to combin
 - Non-matching values appear as NULL.
 
 📸 Output:  
-![Left Join](outputs/left_join.png)
+<img width="1045" height="647" alt="Image" src="https://github.com/user-attachments/assets/160e1f3a-f22b-4c8e-9536-0522b2610796" />
 
 ---
 
