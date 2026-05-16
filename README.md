@@ -71,7 +71,7 @@ To perform different types of SQL joins (INNER, LEFT, RIGHT, and FULL) to combin
 - Since MySQL does not support FULL JOIN directly, it is implemented using UNION of LEFT JOIN and RIGHT JOIN.
 
 📸 Output:  
-![Full Join](outputs/full_join.png)
+![Full Join](<img width="1016" height="622" alt="Image" src="https://github.com/user-attachments/assets/3e4755dc-55bd-44e9-a970-ecb8ac824398" />)
 
 ---
 
