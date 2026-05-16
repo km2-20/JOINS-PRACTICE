@@ -44,7 +44,8 @@ To perform different types of SQL joins (INNER, LEFT, RIGHT, and FULL) to combin
 - Returns only matching records from both tables.
 
 📸 Output:  
-![Inner Join](outputs/inner_join.png)
+<img width="1043" height="580" alt="Image" src="https://github.com/user-attachments/assets/36e72b55-aacb-4336-9370-f1b8baafaef0" />
+
 
 ---
 
